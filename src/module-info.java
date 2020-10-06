@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ram
+ *
+ */
+module DesingPatterns {
+}
